@@ -62,7 +62,7 @@ public class Signos2 {
                 }
             }
             if (!dataValida) {
-                System.out.println("Data inserida inválida");
+                System.out.println("Data inserida inválida xiru");
                 return;
             }
 
