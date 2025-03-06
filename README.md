@@ -51,7 +51,7 @@ Os exercícios foram desenvolvidos para consolidar o aprendizado e podem ser uti
 │   │  
 │   │
 ├── 📄 README.md
-└── 📄 .gitignore
+
 ```
 ---
 ## 📖 Exemplos de Código
